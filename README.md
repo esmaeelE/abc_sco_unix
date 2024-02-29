@@ -51,7 +51,7 @@ To doing search we need convert each book page to plain text
 
 In Debian we have `tesseract` program for this task.
 
-Insatall tesseract
+Install tesseract
 
 ```
 $ sudo apt install tesseract
