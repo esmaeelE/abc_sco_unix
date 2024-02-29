@@ -36,7 +36,7 @@ OK, find it in internet archive. But in there we can only review and borrow.
 
 ## How to Download 
 
-By Installing firefox extention `Internet Archive Downloader (disabled)`
+By Installing firefox extention `Internet Archive Downloader`
 we can grab pdf file.
 
 ```
