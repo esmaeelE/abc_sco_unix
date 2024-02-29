@@ -71,7 +71,7 @@ It is simple, just run it with bash
 bash run.sh
 ```
 
-After works finished we have a good book for reading.
+After works finished we have a good book to read.
 
 ## Search in book 
 
