@@ -12,7 +12,7 @@ But unfortunaltly I can't remember book name.
 
 ## Resarch
 
-But fortunate enouth which someone in some article about in Persian here.
+But fortunate enouth someone in an article write about in Persian here.
 
 [gnu planet](https://planet.sito.ir/%DA%86%DB%8C%D8%B2%D9%87%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%AF%D8%A7%D9%86%DB%8C%D8%AF/)
 
