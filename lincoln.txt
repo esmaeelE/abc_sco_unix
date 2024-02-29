@@ -1,0 +1,26 @@
+68
+
+The ABC’s of SCO UNIX
+CH. 4
+
+Lincoln said government should be “of the people, by the peo-
+ple, for the people.” Thompson and Ritchie designed UNIX to be “of
+the files, by the files, for the files.” Everything you do in the UNIX
+world is done with files. For instance, when you start the mail pro-
+gram, you are using a file; when you save a message in mail, it is saved
+in a file. Even the errors you make in sending messages are kept in a
+file. And files are used to display everything you see on your terminal,
+too. It’s hard to explain files in terms of the UNIX cafe, but you might
+say that everything used to order, prepare, contain, serve, and eat the
+meal, from the waiter’s pencil to the ten-burner kitchen stove to your
+salad fork, are all files.
+
+These files are all kept in directories. Directories are like the fold-
+ers used to hold paper files in a file cabinet. The difference is that you
+can put directories as well as files inside a directory. There is almost no
+limit to how many directories and files you can have inside any one
+directory; all of the directories in your UNIX system are in a single,
+“root” directory. :
+
+In the real world, if you put a folder full of files in a second
+folder, then put that second folder with a bunch of other folders and
