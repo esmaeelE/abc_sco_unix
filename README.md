@@ -147,3 +147,8 @@ Append images, create new pdf book.
 ```
 convert out/*.jpg abc_of_unix.pdf
 ```
+
+## Download Get book
+
+[The_ABC's_of_Sco_Unix](https://github.com/esmaeelE/books/blob/main/unix/The_ABC's_of_Sco_Unix.pdf)
+
