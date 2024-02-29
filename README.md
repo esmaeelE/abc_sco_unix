@@ -135,7 +135,7 @@ By reducing each part of pdf, total size will reduce.
 
 Using `convert` command and set recution factore to 40%
 
-Some try of fail I find ***30%*** factor is good enough for this ebook
+With try of fail method I find ***30%*** factor is good enough for this ebook.
 
 ### Combine images to create new book
 
