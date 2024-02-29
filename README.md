@@ -2,8 +2,7 @@
 
 # Preface
 
-Question
-Some years ago I read a quote by Abraham Lincoln about How a government must be.
+Some years ago I read a quote by [Abraham Lincoln](https://en.wikipedia.org/wiki/Abraham_Lincoln) about How a government must be.
 He said
 
 > Government of the people, by the people, for the people, shall not perish from the Earth.
